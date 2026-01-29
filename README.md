@@ -1,3 +1,3 @@
 # Amazon_Clone
 
-( amazon-clone-red-ten.vercel.app )
+https://amazon-clone-red-ten.vercel.app/
